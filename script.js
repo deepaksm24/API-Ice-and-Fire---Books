@@ -320,8 +320,8 @@ async function character(x) {
     <div class="col-lg-10 col-md-10 col-sm-12">
              <div class="shadow-lg p-3 mb-5 bg-white rounded"> 
                         <div class="card-body">
-                                 <h3 class="card-title">Card title</h3>
-                                 <h5 class="card-title1">Card title</h5>
+                                 <h3 class="card-title"></h3>
+                                 <h5 class="card-title1"></h5>
                                  <p class="card-text1"></p>
                                 <div class="text-wrap"> <p class="card-text2"> </p>   
                                      <p class="card-text3"></p>
